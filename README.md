@@ -3,7 +3,8 @@ Mental Check-In Journal Bot is a user-friendly chatbot designed to encourage sel
 
 Built during a 3-day inter-community hackathon, this project aims to make mental health support more accessible through simple yet meaningful daily interactions. Whether you're seeking a tool for self-awareness or a base to build advanced mental wellness features, this chatbot offers a thoughtful starting point.
 
-*Team Members
+Team Members
+
 This project was created by a dedicated team of five mambers:
 - Toshima Rahangdale
 - Priya Sandhya 
