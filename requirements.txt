@@ -1,0 +1,5 @@
+langchain-groq
+langchain-community
+langchain-huggingface
+gradio
+sentence-transformers
